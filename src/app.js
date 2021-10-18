@@ -1,3 +1,4 @@
+// 18 EKİM 2021 DERS SONU.
 console.log("Selam Js")
 // JavaScript'te Type Safe Yok.
 let dolarBugun = 9.30
